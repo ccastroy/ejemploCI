@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pretest": "echo \"Running Lint\"",
+    "pretest": "echo \"Running ESLint\"",
     "test": "echo \"Running Test\"",
     "posttest": "echo \"Running Code Coverage\""
   },
