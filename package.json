@@ -6,7 +6,7 @@
   "scripts": {
     "pretest": "echo \"Running Lint\"",
     "test": "echo \"Running Test\"",
-    "posttest": "echo \"Running Code Coverage`\""
+    "posttest": "echo \"Running Code Coverage\""
   },
   "author": "",
   "license": "ISC"
