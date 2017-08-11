@@ -1,0 +1,13 @@
+{
+  "name": "ejemploci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "echo \"Running Lint\"",
+    "test": "echo \"Running Test\"",
+    "posttest": "echo \"Running Code Coverage`\""
+  },
+  "author": "",
+  "license": "ISC"
+}
